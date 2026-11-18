@@ -15,7 +15,7 @@ Google, or Meta silicon.
 | N-RAY | BVH traversal, ray/triangle intersection | Spatial traversal pipeline |
 | N-CRYPTO | Security primitives | Specialized pipeline |
 
-The simulator currently describes 2,097,152 logical lanes across these engine
+The simulator currently describes 176,160,768 logical lanes across these engine
 families. That is an architecture parameter—not a physical core count, not
 active parallel hardware, and not a performance claim. The topology can be
 scaled in configuration without allocating those resources.
